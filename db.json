@@ -5,18 +5,6 @@
       "username": "ginanjar",
       "email": "ginanjar@gmail.com",
       "password": "ginanjar123"
-    },
-    {
-      "username": "",
-      "email": "ginanjar01@gmail.com",
-      "password": "",
-      "id": 2
-    },
-    {
-      "username": "ginanjarrrrr",
-      "email": "ginanjarrrrr@gmail.com",
-      "password": "ginanjarrrrr",
-      "id": 3
     }
   ],
   "category": ["Drink", "Snack", "Food"], 
@@ -401,38 +389,6 @@
         "More"
       ],
       "image": "https://globalassets.starbucks.com/assets/bebc2b416fb44f69a193be358ad8b3f8.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": 11,
-      "name": "Sausage, Cheddar & Egg Sandwich",
-      "category": 2,
-      "size": [
-        {
-          "option": "Short",
-          "calories": 5,
-          "cup": "8 fl oz",
-          "price": 30000
-        },
-        {
-          "option": "Tall",
-          "calories": 10,
-          "cup": "12 fl oz",
-          "price": 35000
-        },
-        {
-          "option": "Grande",
-          "calories": 15,
-          "cup": "16 fl oz",
-          "price": 38000
-        }
-      ],
-      "topping": [
-        "Cheese",
-        "Eggs",
-        "Meats",
-        "Sriracha"
-      ],
-      "image": "https://globalassets.starbucks.com/assets/27bd607e92354742bc8cf46b23f4ce39.jpg?impolicy=1by1_medium_630"
     }
   ]
 }
